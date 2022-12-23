@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteyMuletti
 - 👀 I’m interested in all things cyber security!
-- 🌱 I’m currently learning how SIEM works and get comfortable creating simple and advanced search queries to look for specific answers from the ingested logs.
+- 🌱 I’m currently learning how SIEM works and getting comfortable creating simple and advanced search queries to look for specific answers from the ingested logs.
 - 💞️ I’m looking to collaborate on all things blue team
 - 📫 How to reach me: steyios@hotmail.com
 
