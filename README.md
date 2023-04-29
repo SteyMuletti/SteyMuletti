@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteyMuletti
-- 👀 I’m interested in all things cyber security!
-- 🌱 I’m currently learning how SIEM works and getting comfortable creating simple and advanced search queries to look for specific answers from the ingested logs.
-- 💞️ I’m looking to collaborate on all things blue team
+- 👀 I’m interested in all things cybersecurity!
+- 🌱 I’m currently learning HTML, CSS, JS
+- 💞️ I’m looking to collaborate on all things Python
 - 📫 How to reach me: steyios@hotmail.com
 
 <!---
