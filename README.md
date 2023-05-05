@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Steyios Michalis or @SteyMuletti
-- 👀 I’m interested in all things cybersecurity!
+- 👀 I’m interested in all things Cybersecurity!
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on all things Python
+- 💞️ I’m looking to collaborate on all things >= Python
 - 📫 How to reach me: steyios@hotmail.com
 
 <!---
