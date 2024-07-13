@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Steyios Michalis or @SteyMuletti
-- 👀 I’m interested in all things Cybersecurity!
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on all things >= Python
+- 👀 I’m interested in all things Cybersecurity & Salesforce!
+- 🌱 I’m currently learning Apex
+- 💞️ I’m looking to collaborate on all things >= Python & Apex (Salesforce)
 - 📫 How to reach me: steyios@hotmail.com
 
 <!---
